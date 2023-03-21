@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldj8196&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ldj8196&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldj8196&&show_icons=true&theme=tokyonight)
