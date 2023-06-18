@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DJ%20Github&fontSize=90" />
+
+# Profile
+- Name : Dong Jun Lee
+- Email : ldj8196@gmail.com
 <hr/>
 <h6 align="center">⭐Back-End Developer⭐</h6>
 <h6 align="center">🌱 LDJ</h6>
@@ -35,3 +39,15 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br/>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/ldj8196">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldj8196&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${dark}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/ldj8196">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldj8196&hide_title=${true}&show_icons=${true}&include_all_commits=${true}&theme=${dark}" />
+  </a>
+</p>
