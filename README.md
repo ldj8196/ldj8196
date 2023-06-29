@@ -55,6 +55,13 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
+<div align="center">
+	<h4> :wrench: IDE</h4>
+	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+	<img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</div>
+
 <br/>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
