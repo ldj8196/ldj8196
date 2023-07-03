@@ -19,19 +19,25 @@ Here are some ideas to get you started:
 # Profile
 - Name : Dong Jun Lee
 - Email : ldj8196@gmail.com
-<hr/><br />
+<hr/>
 
 #  :art: My Project
-<br/>
 
-#  :page_facing_up: 항만물류사이트 제작 미니프로젝트 Orca
+##  :ship: JAVA를 이용한 항만물류 주문 응용프로그램 개발
+: JAVA와 JAVA Swing GUI를 이용한 항만물류 주문 응용프로그램 입니다.
+
+국비지원 6개월 과정 JAVA를 사용한 응용프로그램 제작 미니프로젝트로써 추후에 JSP로 업그레이드하여 웹사이트 형식의 웹 프로젝트로 진행하였습니다.
+
+<a href="https://github.com/ldj8196/MiniProject_Java">JAVA미니프로젝트</a>
+<br/><br/>
+##  :page_facing_up: 항만물류사이트 제작 미니프로젝트 Orca
 : JSP 기반으로 제작한 항만물류통합 사이트 입니다.
 
 국비지원 6개월 과정 JSP를 사용한 웹사이트 미니프로젝트로써 팀프로젝트로 진행하였고, 추후에 스프링부트 프레임워크로 업그레이드하여 최종프로젝트로 진행하였습니다.
 
-<a href="https://github.com/ldj8196/MiniProject_JSP">미니프로젝트</a>
+<a href="https://github.com/ldj8196/MiniProject_JSP">JSP미니프로젝트</a>
 <br/><br/>
-#  :trophy: 항만물류사이트 제작 최종프로젝트 Orca
+##  :trophy: 항만물류사이트 제작 최종프로젝트 Orca
 : Spring Boot 기반으로 제작한 항만물류통합 사이트 입니다.
 
 국비지원 6개월 과정 SpringBoot를 사용한 웹사이트 최종프로젝트로써 팀프로젝트로 진행하였고, 맡은 담당기능을 포트폴리오 형식으로 제작하고 AWS에 실제 제작한 웹사이트를 배포한 후 Readme에 올려두었습니다.
@@ -40,7 +46,7 @@ Here are some ideas to get you started:
 <a href="http://13.125.14.162:8080/ROOT2/orca/home.do">Orca Web Page</a>
 <br/>
 
-#  :pencil: Study
+##  :pencil: Study
 : Python Data Analysis
 
 파이썬을 활용한 데이터분석으로 인스타그램 자동로그인과 제주도맛집 데이터를 크롤링하여 값을 보여주거나 excel로 저장합니다.<br/><br/>
